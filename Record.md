@@ -66,6 +66,6 @@ $\frac{p1}{n1}>\frac{p2}{n2}  $	当前A不公平
 
 但是Q值方法和比例加惯例方法，否无法达到席位分配的理想化准则。
 
-![](E:\建模比赛\Math_Model\reources\1.JPG)
+图：1.JPG
 
-![](E:\建模比赛\Math_Model\reources\2.JPG)
+图：2.JPG
